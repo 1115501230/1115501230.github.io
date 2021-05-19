@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>老御资源库正式成立！！！</title>
+      <link href="2021/05/16/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/"/>
+      <url>2021/05/16/%E6%9B%B4%E6%96%B0%E8%AF%B4%E6%98%8E/</url>
+      
+        <content type="html"><![CDATA[<h2 id="资源整改中！！敬请期待！！"><a href="#资源整改中！！敬请期待！！" class="headerlink" title="资源整改中！！敬请期待！！"></a>资源整改中！！敬请期待！！</h2><p>目前的背景格式，样式等等还在继续修改，我也在努力学习如何修改。最近也是面试成功开始步入工作，慢慢来吧，毕竟我喜欢节奏慢一点的生活。敬请谅解，敬请期待。。。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hellow3</title>
+      <link href="2021/05/16/hellow3/"/>
+      <url>2021/05/16/hellow3/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hellow word2</title>
+      <link href="2021/05/16/hellow-word2/"/>
+      <url>2021/05/16/hellow-word2/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hexo-butterfly自改教程</title>
+      <link href="2021/05/16/hello-world/"/>
+      <url>2021/05/16/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://laoyu.ga/">老御资源库</a>!<br>我整理了一些我自己搜刮到的魔改教程，备份！</p><h2 id="网站根目录-config-yml配置"><a href="#网站根目录-config-yml配置" class="headerlink" title="网站根目录_config.yml配置"></a>网站根目录_config.yml配置</h2><p>插一句废话：#是备注行有的无需修改（虽然是英文），如果大家是大佬请忽略此句。</p><h3 id="导航目录"><a href="#导航目录" class="headerlink" title="导航目录"></a>导航目录</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
