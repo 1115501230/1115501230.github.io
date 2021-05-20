@@ -1,0 +1,8 @@
+@font-face {
+    font-family:'wawa';
+    src:url('https://cdn.jsdelivr.net/gh/1115501230/bokeimgs/kitty.ttf');
+}
+
+#page-header {
+	font-family:'wawa';
+}

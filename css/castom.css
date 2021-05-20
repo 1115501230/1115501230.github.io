@@ -1,7 +1,9 @@
 @font-face {
     font-family:'arzhu';
     src:url('https://cdn.jsdelivr.net/gh/1115501230/bokeimgs/123456.ttf');
-    font-display:swap
+    font-family:'wawa';
+    src:url('https://cdn.jsdelivr.net/gh/1115501230/bokeimgs/kitty.ttf');
+
 }
 h1#site-title {
     font-family:arzhu!important
@@ -31,4 +33,8 @@ a#site-name {
 
 #footer #footer-wrap a {
     color: var(--font-color)
+}
+
+#page-header {
+	font-family:'wawa';
 }
