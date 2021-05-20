@@ -9,10 +9,14 @@ h1#site-title {
     font-family:arzhu!important
 }
 span#subtitle {
-    font-family:arzhu!important
+    font-family:wawa!important
 }
 a#site-name {
-    font-family:arzhu!important
+    font-family:wawa!important
+}
+
+#page-header {
+    font-family:'wawa';
 }
 
 #footer {
@@ -35,6 +39,4 @@ a#site-name {
     color: var(--font-color)
 }
 
-#page-header {
-	font-family:'wawa';
-}
+
