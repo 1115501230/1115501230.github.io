@@ -65,3 +65,21 @@ table tbody tr:nth-child(2n) {
 table td:hover {
     background: #FFCCCC; 
 }
+
+
+body {
+    cursor: url(https://cdn.jsdelivr.net/gh/59ai/pic1/16554.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/59ai/pic1/16555.png), auto
+}
+
+
